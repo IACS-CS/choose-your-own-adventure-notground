@@ -15,3 +15,8 @@ h1 {
   font-weight: bold;
   color: brown;
 }
+
+img {
+  width: 20em;
+  height: auto;
+}
